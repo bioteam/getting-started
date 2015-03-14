@@ -1,9 +1,9 @@
-*/.idea
+*/credentials.dat
 *.iml
 */client_secrets.json
-*/credentials.dat
-*~
-
-java/target
-
 go/.oauth2_cache.json
+*/.idea
+*~
+ruby/client_secrets.json
+java/target
+ruby/Gemfile.lock
